@@ -4,7 +4,7 @@ public class Passenger {
 
     private int age;
     
-    System.out.println ("Hola");
+    System.out.println ("Abraham Garrido");
 
     public Passenger(int age) {
         this.age = age;
