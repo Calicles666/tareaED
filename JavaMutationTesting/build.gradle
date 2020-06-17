@@ -13,8 +13,8 @@ plugins {
     id 'java'
     id 'jacoco'
     id 'info.solidsoft.pitest' version '1.4.5'
-    id 'org.sonarqube'
-}
+    id "org.sonarqube" version "2.6.2"
+    }
 
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.4.2'
