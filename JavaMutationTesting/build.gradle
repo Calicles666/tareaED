@@ -49,8 +49,8 @@ sonarqube {
 	}
 }
 
-subproyects {
+subprojects {
 	sonarqube {
-		skipProyect = true
+		skipProject = true
 	}
 }
